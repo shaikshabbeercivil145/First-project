@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+.user{
+  border: 1px solid;
+  margin: 16px;
+  flex: 1;
+  padding: 8px;
+}
+
+.container{
+  display: flex;
+  gap: 16px;
+
+}
+
+body{
+  padding: 16px;
+}
