@@ -9,6 +9,8 @@ function App() {
     <User  name="shabeena" job="ElectricalEngineering" location="Vallur"/> 
     <User name="sameer" job="MechatronicsEngineering" location="Delhi"/>
     <User name="mahabasha" job="PetroleumEngineering" location="Chennai"/>
+    <User  name="mahabasha" job="PetroleumEngineering" location="Chennai"/>
+    <User name="shakeer"/>
 
     </section>
   </div>
